@@ -1,0 +1,31 @@
+.main {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.categories {
+  width: 45%;
+  margin: 12px 0;
+  position: relative;
+  height: 400px;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("http://www.assticons.com/images/Our%20Products02%20Vector.png")
+      no-repeat;
+}
+
+.categories span {
+  position: absolute;
+  color: white;
+  font-size: 20px;
+  top: 60%;
+  left: 60%;
+  transition: all 0.5s;
+}
+
+.categories span:hover {
+  font-size: 22px;
+  text-decoration: underline;
+}

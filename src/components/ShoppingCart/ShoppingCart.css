@@ -1,0 +1,9 @@
+.remove-button {
+  background-color: red;
+  opacity: 0.9;
+  padding: 6px;
+  margin: 6px 0;
+  border-radius: 20px;
+  border: none;
+  color: whitesmoke;
+}

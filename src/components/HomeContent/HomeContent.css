@@ -1,0 +1,9 @@
+.main {
+  width: 90%;
+  margin: auto;
+}
+
+.main img {
+  height: 400px;
+  object-fit: cover;
+}

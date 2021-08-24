@@ -1,0 +1,22 @@
+.footer {
+  width: 100%;
+  background-color: #d97005;
+  color: #f8ffec;
+  display: flex;
+  justify-content: space-around;
+  padding: 12px 0px;
+  margin-top: 12px;
+}
+
+.info {
+  font-size: 14px;
+}
+
+.info ul,
+li {
+  margin: 6px 0px;
+  padding: 0;
+  list-style: none;
+  opacity: 0.9;
+  cursor: pointer;
+}
